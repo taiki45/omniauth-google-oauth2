@@ -2,7 +2,7 @@
 require File.expand_path('../lib/omniauth/google_oauth2/version', __FILE__)
 
 Gem::Specification.new do |gem|
-  gem.add_dependency 'omniauth', '~> 2.0'
+  gem.add_dependency 'omniauth'
 
   gem.authors       = ["Josh Ellithorpe", "Yury Korolev"]
   gem.email         = ["quest@mac.com"]
